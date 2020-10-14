@@ -9,19 +9,8 @@ namespace Open_Lab_03._10
     {
         public int GetNumberOfCharsInString(char letter, string str)
         {
-
-
-
             int a = str.Split(letter).Length - 1;
             return a;
-
-
-
-
-
-
-
-
         }
     }
 }
